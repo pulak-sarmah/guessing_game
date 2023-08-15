@@ -29,7 +29,8 @@ Welcome to the Guess My Number game! This is a simple and interactive number gue
 
 ## Preview
 
-![Guess My Number Preview](public/localhost_5173_.png,public/localhost_5173_.png)
+![Guess My Number Preview1](public/localhost_5173_.png)
+![Guess My Number Preview2](public/localhost_5173_ (1).png)
 
 
 ## License
