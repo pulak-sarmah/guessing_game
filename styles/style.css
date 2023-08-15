@@ -106,7 +106,12 @@ h1 {
 }
 
 .btn:hover {
-  background-color: #ccc;
+  background-color: hsl(0, 0%, 40%);
+  transition: background-color 0.2s ease-in-out;
+}
+.btn:focus {
+  background-color: #eee;
+  transition: background-color 0.2s ease-in-out;
 }
 
 .message {
